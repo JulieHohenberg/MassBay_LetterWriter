@@ -1,6 +1,6 @@
 # MassBay Forest Advocacy App
 
-A clean, elderly-friendly web application to help Massachusetts residents generate and send advocacy letters to protect the MassBay Forest / Centennial Park parcel.
+Life moves fast. This heuristic-powered tool helps you turn your thoughts into words quickly, clearly, and respectfully, while staying true to your voice. The web application enables Massachusetts residents to generate and send advocacy letters in support of protecting the MassBay Forest / Centennial Park parcel. This version uses a heuristic-based approach to keep costs low for nonprofit purposes, though an API key could be integrated in the future to produce more tailored and polished letters.
 
 ## Features
 - **Step 1:** Select and rank talking points from a predefined list.
