@@ -2,6 +2,10 @@
 
 Life moves fast. This heuristic-powered tool helps you turn your thoughts into words quickly, clearly, and respectfully, while staying true to your voice. The web application enables Massachusetts residents to generate and send advocacy letters in support of protecting the MassBay Forest / Centennial Park parcel. This version uses a heuristic-based approach to keep costs low for nonprofit purposes, though an API key could be integrated in the future to produce more tailored and polished letters.
 
+Access the heuristic-powered letter writer [here](https://massbay-forest-advocacy-app-562854066221.us-west1.run.app)!
+
+*Note: you can also access the Gemini-powered letter writer (separate website) [here](https://ma-advocacy-letter-a-r9xi.bolt.host/).*
+
 ## Features
 - **Step 1:** Select and rank talking points from a predefined list.
 - **Step 2:** Choose recipients (High-priority targets or manually enter MA legislators).
