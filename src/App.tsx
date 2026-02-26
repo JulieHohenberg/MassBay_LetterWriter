@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { talkingPoints, TalkingPoint } from './lib/talkingPoints';
 import { highPriorityRecipients, Recipient } from './lib/highPriorityRecipients';
-import { countWords, formatDate, generateMailto } from './lib/utils';
+import { generateMailto } from './lib/utils';
 import { generateHeuristicLetter } from './lib/heuristicLetter';
 import { Check, ChevronDown, ChevronUp, Copy, Download, ExternalLink, Mail, MapPin, Search, ShieldCheck, Trash2 } from 'lucide-react';
 
